@@ -1,1 +1,2 @@
-# tvshowtrackingsystem-cs353
+# TTrack
+CS 353 Term Project
