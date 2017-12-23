@@ -1,2 +1,6 @@
-# TTrack
+# TRIP TEEVEE
 CS 353 Term Project
+
+EREN ÇALIK
+KIVANÇ GÜMÜŞ
+CAN HASBİ
